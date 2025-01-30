@@ -1,2 +1,2 @@
 # BMII-CALCULATOR
-This a Body Mass Index (BMI) calculator made by me in Python. I made it on python using in built function "input" for taking input input from user and "if/elif/else" function. 
+This a Body Mass Index (BMI) calculator made by me in Python. I made it on python using in built function "input" for taking input input from user and "if/elif/else" function. It takes input your name , weight in pounds and height in inches then it calculate your BMI , shoe you your Body Mass Index and tell you are you under weight, normal , obese, severely obese or morbidly obese.
